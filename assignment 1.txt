@@ -1,0 +1,22 @@
+List out 20 use cases of the Internet of Things
+__________________________________________________
+1.Outdoor surveillance
+2.Predictive maintenance
+3.Enterprise Asset Management
+4.Industrial Process Automation/Optimisation
+5.Energy Management
+6.Smart Lighting
+7.Electronic Road Toll Collection and Traffic Management
+8.Smart Parking
+9.Waste Management
+10.Water conservation
+11.Ultraviolet Radiation Monitoring
+12.Companion Robots
+13.Patient Surveillance/Remote Patient Monitoring
+14.Supply Chain Control
+15.Near Field Communication (NFC) Payment
+16.Sociometric badges
+17.Remote Control Appliances
+18.Smart locks
+19.Motion detection
+20.Smart Grid
